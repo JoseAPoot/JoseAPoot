@@ -20,7 +20,7 @@ Full-Stack | Web | Mobile (Flutter)
 <a href="https://twitter.com/JoseAPoot">
   <img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-circled.png" />
 </a>
-<a href="https://github.com/JoseAlfredo-Poot/">
+<a href="https://github.com/JA-Poot/">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png" />
 </a>
 <a href="https://t.me/JPoot">
