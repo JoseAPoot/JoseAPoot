@@ -20,10 +20,10 @@ Full-Stack | Web | Mobile (Flutter)
 <a href="https://twitter.com/JoseAPoot">
   <img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-circled.png" />
 </a>
-<a href="https://github.com/ja-poot/">
+<a href="https://github.com/JoseAPoot/">
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png" />
 </a>
-<a href="https://t.me/JPoot">
+<a href="https://t.me/JoseAPoot">
   <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />
 </a>
 <a href="https://wa.me/+529983540616">
