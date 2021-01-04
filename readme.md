@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="./img/banner.png">
+<img align="right" width="500" height="500" src="./img/ban.png">
 
 # Hola, soy desarrollador.
 
