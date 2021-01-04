@@ -1,22 +1,16 @@
-<img align="right" width="500" height="500" src="./img/ban.png">
+<img align="right" width="300" height="370" src="./img/ban.png">
 
 # Hola, soy desarrollador.
 
 Full-Stack | Web | Mobile (Flutter)
 
-[![Github](https://img.shields.io/github/followers/JoseAlfredo-Poot?style=social)](https://github.com/JoseAlfredo-Poot)
-[![Github](https://img.shields.io/github/last-commit/JoseAlfredo-Poot/JoseAlfredo-Poot)](https://github.com/JoseAlfredo-Poot/JoseAlfredo-Poot)
-[![Github](https://img.shields.io/github/stars/JoseAlfredo-Poot/JoseAlfredo-Poot?style=social)](https://github.com/JoseAlfredo-Poot/JoseAlfredo-Poot)
-[![Github](https://img.shields.io/github/watchers/JoseAlfredo-Poot/JoseAlfredo-Poot?style=social)](https://github.com/JoseAlfredo-Poot/JoseAlfredo-Poot)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2joseapoot)](https://twitter.com/JoseAPoot)
-
 ## Acerca de Mi
 
-- Soy Desarrollador de software, diseño, construyo y a veces rescato aplicaciones.
+- Soy desarrollador de software, diseño, construyo y a veces rescato aplicaciones.
 
 - Me encanta programar, tomar café y escuchar música.
 
-- Además me encanta seguir aprendiendo.
+- Además de seguir aprendiendo nuevos lenguajes y frameworks.
 
 - Y compartir el conocimiento adquirido con los demás.
 
