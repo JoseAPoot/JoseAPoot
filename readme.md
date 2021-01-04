@@ -32,6 +32,6 @@ Full-Stack | Web | Mobile (Flutter)
 <a href="mailto:josealfredo.poot@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" />
 </a>
-<a href="https://www.facebook.com/JoseAlfredo.Poot.13">
+<a href="https://facebook.com/JoseAPoot.13">
   <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
