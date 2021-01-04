@@ -16,7 +16,9 @@ Full-Stack | Web | Mobile (Flutter)
 
 - Me encanta programar, tomar café y escuchar música.
 
-- Tambien me encanta seguir aprendiendo.
+- Además me encanta seguir aprendiendo.
+
+- Y compartir el conocimiento adquirido con los demás.
 
 
 ## Mis Redes Sociales
@@ -29,6 +31,9 @@ Full-Stack | Web | Mobile (Flutter)
 </a>
 <a href="https://t.me/JPoot">
   <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />
+</a>
+<a href="https://wa.me/+529983540616">
+  <img align="left" alt="WhatsApp" width="22px" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" />
 </a>
 <a href="mailto:josealfredo.poot@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/48/000000/gmail--v2.png" />
